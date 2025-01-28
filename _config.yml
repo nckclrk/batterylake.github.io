@@ -12,7 +12,7 @@ title                    : "Nick Clark"
 title_separator          : "-"
 name                     : &name "Nick Clark"
 description              : &description "personal description"
-url                      : https://batterylake.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : nicholasclark.org # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "batterylake/batterylake.github.io"
 
