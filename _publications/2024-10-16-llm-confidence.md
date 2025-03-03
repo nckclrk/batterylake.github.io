@@ -2,7 +2,7 @@
 title: "LLM Confidence Evaluation Measures in Zero-Shot CSS Classification"
 collection: publications
 category: preprints
-permalink: /publication/2024-10-16-llm-confidence
+# permalink: /publication/2024-10-16-llm-confidence
 excerpt: 'A novel uncertainty quantification method for LLMs.'
 date: 2024-10-16
 venue: 'arXiv'

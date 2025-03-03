@@ -8,6 +8,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "CV"
+    url: /files/CV_Nicholas_Clark.pdf
+
+  - title: "Feed"
+    url: /feed/
+
   # - title: "Talks"
   #   url: /talks/    
 
@@ -19,9 +25,6 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /files/CV_Nicholas_Clark.pdf
     
   # - title: "Guide"
   #   url: /markdown/

@@ -2,7 +2,7 @@
 title: "Defending novice user privacy: An evaluation of default web browser configurations"
 collection: publications
 category: publications
-permalink: /publication/2024-05-01-browser-privacy
+# permalink: /publication/2024-05-01-browser-privacy
 excerpt: 'Which web browser has the best default privacy settings?'
 date: 2024-05-01
 venue: 'Computers & Security'
