@@ -11,6 +11,9 @@ main:
   - title: "CV"
     url: /files/CV_Nicholas_Clark.pdf
 
+  - title: "Media"
+    url: /media/
+
   - title: "Feed"
     url: /feed/
 

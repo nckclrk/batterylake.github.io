@@ -226,6 +226,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  media:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -261,6 +264,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _media
+  - scope:
+      path: ""
+      type: media
     values:
       layout: single
       author_profile: true
