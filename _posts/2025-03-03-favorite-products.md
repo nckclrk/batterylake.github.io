@@ -22,7 +22,7 @@ in no particular order, here are my 10 favorite products:
 
 ### 7. tetris
 
-### 8. cursor
+### 8.  c̶u̶r̶s̶o̶r̶ claude code
 
 ### 9. claude
 
